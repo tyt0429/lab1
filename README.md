@@ -1,1 +1,3 @@
-# lab1
+compile :
+
+g++ -o qb qb.cpp
